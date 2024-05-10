@@ -1,5 +1,3 @@
-## Welcome
-
 Welcome to my portfolio and blog.
 
 ## Portfolio
