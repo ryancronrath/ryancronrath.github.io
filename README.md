@@ -1,6 +1,4 @@
 
-# Ryan Cronrath
-
 [About](/About)
 
 ## Information
